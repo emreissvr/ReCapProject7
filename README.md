@@ -1,2 +1,2 @@
 # ReCapProject 7 
-## Autofac Configuration
+## FluentValidation Configuration
